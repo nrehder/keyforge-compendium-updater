@@ -1,0 +1,2 @@
+# keyforge-compendium-updater
+ 
